@@ -1,0 +1,67 @@
+{
+    "header": {
+        "title": "Descubra os cursos que vão te ajudar a começar ou impulsionar sua carreira",
+        "buttonText": "Ver cursos",
+        "buttonRecommendedText": "recomendados"
+    },
+    "apresentacao": {
+        "mainTitle": "Profissionalize-se e alcance suas metas",
+        "subtitle": "Descubra cursos que ajudam você a se profissionalizar e aprimorar suas habilidades para o mercado de trabalho. Esta página apresenta informações e links sobre os cursos, que estão disponíveis em outra plataforma. Nosso site serve apenas como meio de divulgação e orientação para facilitar seu acesso aos conteúdos de aprendizado.",
+        "date": "21 de Setembro de 2025",
+        "imageAlt": "Imagem de Apresentação"
+    },
+    "sections": [
+        {
+            "linkCurso": "https://go.hotmart.com/G102025724V?dp=1",
+            "sectionTitle": "Curso de Excel baseado nos 4 pilares da neurociência",
+            "sectionText": "Domine o Excel em apenas 6 horas com o curso Excel 4P, baseado nos 4 pilares da neurociência. Transforme sua forma de analisar dados, criar planilhas e gráficos impactantes, seja você estudante, profissional em início de carreira, empresário ou freelancer.\n\n**Para estudantes:** destaque-se em projetos acadêmicos, estágios e entrevistas, e seja o estudante que todos querem contratar.\n\n**Para profissionais em início de carreira:** crie relatórios detalhados, analise dados complexos e supere expectativas no trabalho.\n\n**Para empresários e empreendedores:** transforme dados em decisões estratégicas, gerencie finanças e mercado com eficiência e clareza.\n\n**Para profissionais em transição de carreira:** adquira habilidades valiosas para novas oportunidades, desde funções básicas até análises avançadas.\n\n**Para freelancers:** organize projetos, prazos e finanças, aumentando a produtividade e impressionando clientes.\n\n**Conteúdo do curso:**\n- 5 módulos completos do básico ao avançado\n- 4 módulos bônus de exercícios práticos\n- 74 aulas e 6 horas de conteúdo original\n- Acesso de 1 ano para revisar sempre que precisar\n\n**Benefícios adicionais:**\n- Garantia de 7 dias\n- Certificado de conclusão\n- Estude do seu jeito e em qualquer dispositivo\n- +300 estudantes já capacitados\n\nInscreva-se agora e comece a dominar o Excel, otimizar seu trabalho e abrir portas para novas oportunidades profissionais!",
+            "carousel": [
+                {
+                    "type": "video",
+                    "src": "https://www.youtube.com/embed/xJUITTjyn_Y"
+                },
+                {
+                    "type": "image",
+                    "src": "https://devimpactinstitute.com/wp-content/uploads/2023/06/Advanced-Data-Modelling-and-Analytics-Using-Excel-1.png",
+                    "alt": "Foto 1"
+                }
+            ]
+        },
+        {
+            "linkCurso": "https://go.hotmart.com/K102029211V?dp=1",
+            "sectionTitle": "Chat GPT para otimizar sua rotina",
+            "sectionText": " Aprenda a usar a Inteligência Artificial e otimize seu tempo automatizando tarefas, gerando ideias, criando conteúdos e até ganhando dinheiro online.\n\n O que você vai aprender:\n- Assistente virtual personalizado\n- Estudos e autodidatismo\n- Brainstorming e criatividade\n- Escrita de livros, ebooks e roteiros\n- Programação e GameDev\n- Copywriting, SEO e Marketing Digital\n- Análise de dados e usos avançados\n\n Diferenciais:\n- Estratégias práticas e testadas\n- Conteúdo direto ao ponto\n- Perfeito para estudantes, freelancers e profissionais\n\n👉 É uma boa oportunidade para dar um upgrade na sua carreira !",
+            "carousel": [
+                {
+                    "type": "image",
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpfborjk-enKgoPa8HxILJejcRxAuZIOW8Mw&s",
+                    "alt": "Foto 1"
+                }
+            ]
+        },
+        {
+            "linkCurso": "https://go.hotmart.com/Q102029381B?dp=1",
+            "sectionTitle": "Informática profissionalizante",
+            "sectionText": "Curso Informática Profissionalizante\n\nUm programa completo para iniciantes e também para quem deseja aprimorar seus conhecimentos em informática, com linguagem simples e fácil de entender.\n\nO que você vai aprender:\n- Hardware: componentes do computador e seu funcionamento\n- Internet: navegação, pesquisa, conta Google, formulários, nuvem, IA com ChatGPT e redes Wi-Fi\n- Windows: interface, gerenciamento de arquivos, formatação, partição, personalização e remoção de software\n- Microsoft Word: criação e edição de documentos, normas ABNT, índice automático e formatações avançadas\n- Microsoft Excel: planilhas, fórmulas, funções, gráficos e automações\n- Microsoft PowerPoint: apresentações profissionais com texto, imagens e vídeos\n\nBenefícios:\n- Conteúdo prático e atualizado\n- Habilidades úteis para o dia a dia e mercado de trabalho\n- Base sólida para crescer profissionalmente na área de informática\n\nInscreva-se agora e conquiste domínio em informática para se destacar nos estudos e no trabalho.",
+            "carousel": [
+                {
+                    "type": "image",
+                    "src": "https://ccitraining.edu/wp-content/uploads/2025/07/Day-in-the-Life-of-a-Computer-Support-Technician_-What-to-Expect-1.png",
+                    "alt": "Foto 1"
+                }
+            ]
+        },
+        {
+            "linkCurso": "https://go.hotmart.com/N102029328J?dp=1",
+            "sectionTitle": "Finanças e investimentos",
+            "sectionText": "Investimentos para Iniciantes\n\nUm guia completo para quem deseja começar no mundo das finanças de forma inteligente e segura.\n\nO que você vai aprender:\n- Conceitos básicos sobre dinheiro e investimentos\n- Como definir metas financeiras claras\n- Entender o funcionamento do mercado\n- Estratégias para escolher onde investir\n- Dicas práticas para gerenciar suas economias\n\nBenefícios:\n- Conteúdo simples e direto\n- Ideal para quem está começando\n- Um guia confiável para investir com mais segurança\n\nComece hoje a construir seu futuro financeiro com decisões mais conscientes.",
+            "carousel": [
+                {
+                    "type": "image",
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTALgc0AHkAfsqsnPSf2HF0IaN9GBwwdlh0VQ&s",
+                    "alt": "Foto 1"
+                }
+            ]
+        }
+    ]
+}

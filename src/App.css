@@ -1,0 +1,146 @@
+/* Geral */
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #f5f5f5;
+}
+
+
+/* --- Header --- */
+.header-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  
+}
+
+.header-content {
+  color: black;
+  width: 100%;
+  max-width: 1400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  gap: 70px;
+}
+
+.logo-section {
+  width: 300px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+}
+
+.logo {
+  max-width: 100%;
+  object-position: center;
+}
+
+.header-title {
+  width: 500px;
+}
+
+.tarja-azul {
+  background-color: #0a3b7a;
+  padding: 20px 0;
+  width: 100%;
+  color: white;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+.ver-cursos-btn {
+  background-color: #2EA684;
+  padding: 10px 20px;
+  border-radius: 7px;
+  border: none;
+  color: #fff;
+  font-weight: 600;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+
+
+.apresentacao-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.apresentacao-content {
+  color: black;
+  width: 100%;
+  max-width: 1400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  gap: 70px;
+}
+
+.apresentacao-image-section {
+  width: 300px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  border-radius: 10px;
+
+}
+
+.apresentacao-image-section img {
+  max-width: 100%;
+  object-position: cover;
+}
+
+.apresentacao-text-section {
+  
+  width: 500px;
+}
+
+.main-title {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  margin: 0;
+}
+
+.subtitle {
+  font-size: 14px;
+  margin: 10px 0;
+  font-style: italic;
+  line-height: 20px;
+}
+
+.date {
+  font-size: 10px;
+  margin: 0;
+}
+
+/* --- Seção inferior --- */
+.content {
+  max-width: 800px;
+  margin: 50px auto;
+  text-align: left;
+  flex-direction: column;
+  display: flex;
+  justify-content: space-between;
+}
+
+.section-title {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.section-text {
+  font-size: 18px;
+}
+
+

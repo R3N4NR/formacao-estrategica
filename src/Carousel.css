@@ -1,0 +1,16 @@
+.carousel-iframe {
+  width: 100%;
+  max-width: 800px;
+  aspect-ratio: 16 / 9;
+  border-radius: 10px;
+}
+.carousel-img {
+  width: 100%;
+  max-width: 800px;
+  aspect-ratio: 16 / 9;
+  border-radius: 10px;
+  object-fit: contain;
+}
+.carousel{
+    margin-top: 20px;
+}
