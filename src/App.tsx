@@ -7,7 +7,7 @@ import type { ContentData } from "./types";
 import './App.css'
 import ReactMarkdown from "react-markdown";
 import remarkBreaks from "remark-breaks";
-const typedData: ContentData = rawData as unknown as ContentData; 
+const typedData: ContentData = rawData as unknown as ContentData;
 
 const App: React.FC = () => {
   return (
@@ -22,8 +22,8 @@ const App: React.FC = () => {
           </div>
         </div>
         <div className="tarja-azul">
-          <button className="ver-cursos-btn">{typedData.header.buttonText}</button>
-          <span>{typedData.header.buttonRecommendedText}</span>
+
+          <span>Confira nossos cursos recomendados !</span>
         </div>
       </header>
 
@@ -44,14 +44,14 @@ const App: React.FC = () => {
       {typedData.sections.map((section, idx) => (
         <section key={idx} className="content">
           <h3 className="section-title">{section.sectionTitle}</h3>
-
-          <ReactMarkdown  remarkPlugins={[remarkBreaks]}>
-            {section.sectionText}
-          </ReactMarkdown>
-          <a href={section.linkCurso} className="linkCurso" target="_blank" rel="sponsored nofollow noopener noreferrer"><button className="ver-cursos-btn">Ir ao curso</button></a>
           {Array.isArray(section.carousel) && section.carousel.length > 0 && (
             <Carousel slides={section.carousel} />
           )}
+          <ReactMarkdown remarkPlugins={[remarkBreaks]}>
+            {section.sectionText}
+          </ReactMarkdown>
+          <a href={section.linkCurso} className="linkCurso" target="_blank" rel="sponsored nofollow noopener noreferrer"><button className="ver-cursos-btn">Ir ao curso</button></a>
+
         </section>
       ))}
 

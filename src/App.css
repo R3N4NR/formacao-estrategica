@@ -12,7 +12,7 @@ body {
   flex-direction: column;
   width: 100%;
   align-items: center;
-  
+
 }
 
 .header-content {
@@ -64,6 +64,9 @@ body {
   cursor: pointer;
 }
 
+.ver-cursos-btn:hover {
+    background-color: #239b7a;
+}
 
 
 .apresentacao-container {
@@ -102,7 +105,7 @@ body {
 }
 
 .apresentacao-text-section {
-  
+
   width: 500px;
 }
 
@@ -143,4 +146,18 @@ body {
   font-size: 18px;
 }
 
+@media (max-width: 768px) {
 
+  .header-content,
+  .apresentacao-content {
+    flex-direction: column;
+    gap: 20px;
+    
+  }
+  
+  .header-title,
+  .apresentacao-text-section {
+    width: 100%;
+    text-align: center;
+  }
+}
