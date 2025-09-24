@@ -194,6 +194,19 @@
                     "alt": "capa curso de desenho iniciante"
                 }
             ]
+        },
+        {
+            "id": "169f00cf-6cff-416a-b906-bbba693ed5e1",
+            "linkCurso": "https://amzn.to/4pILY6a",
+            "sectionTitle": "Lógica de Programação e Algoritmos com Javascript ",
+            "sectionText": "Este livro aborda Lógica de Programação e Algoritmos de forma prática e passo a passo, ideal para iniciantes em programação. Com exemplos e exercícios em JavaScript, é possível executar os códigos diretamente no navegador, sem softwares adicionais.\n\nNesta 2ª edição, além de atualizar os recursos do JavaScript, foram adicionados capítulos sobre Node.js, Express e React. Com Node.js, ensina-se a criar algoritmos com entrada e saída via prompt. O Express permite desenvolver aplicações back-end com persistência em banco de dados e comunicação em JSON. Com React, é criada a interface front-end, incluindo cadastro, pesquisa, gráficos e exibição de dados.\n\nOs capítulos cobrem entrada e saída de dados, condições, repetições, vetores, strings, datas, funções, depuração e desenvolvimento web com JavaScript. Um guia completo para aprender programação e desenvolvimento web com exercícios práticos.",
+            "carousel": [
+                {
+                    "type": "image",
+                    "src": "https://m.media-amazon.com/images/I/71X7hMhMEUL._SY342_.jpg",
+                    "alt": "capa algoritmos e javascript"
+                }
+            ]
         }
     ]
 }
