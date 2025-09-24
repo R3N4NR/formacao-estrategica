@@ -207,6 +207,19 @@
                     "alt": "capa algoritmos e javascript"
                 }
             ]
+        },
+        {
+            "id": "d7b21a49-ede9-4f50-83fa-af8a033c3e47",
+            "linkCurso": "https://amzn.to/4pEAKzn",
+            "sectionTitle": "Engenharia - Trincas em edifícios",
+            "sectionText": "O surgimento de fissuras em edifícios é um importante indicativo de possíveis riscos estruturais e comprometimento do desempenho da obra. Identificar corretamente as causas dessas trincas e aplicar o tratamento adequado é fundamental para garantir a segurança e a durabilidade da construção.\n\nO livro “Trincas em Edifícios” apresenta de forma prática e didática as configurações mais comuns de fissuras, explicando os principais conceitos relacionados à prevenção, diagnóstico e recuperação de componentes estruturais afetados.\n\nAborda detalhadamente as diferentes causas das trincas, como:\n\nRecalques de fundação\n\nFlexão de componentes estruturais\n\nMovimentações provocadas por variações de umidade e temperatura\n\nAplicação de sobrecargas\n\nRetração por secagem de argamassas e concretos\n\nAlterações químicas dos materiais de construção\n\nRico em casos reais, exemplos fotográficos e ilustrações, o livro alia conhecimentos teóricos sólidos à vasta experiência prática do autor, tornando-se uma referência indispensável para engenheiros, arquitetos e tecnólogos que atuam na prevenção e solução de trincas em edificações.",
+            "carousel": [
+                {
+                    "type": "image",
+                    "src": "https://m.media-amazon.com/images/I/71V9-FgVb8L._SY385_.jpg",
+                    "alt": "capa trincas em edificios"
+                }
+            ]
         }
     ]
 }
